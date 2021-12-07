@@ -1,0 +1,90 @@
+[
+    {
+        "nombre": "Notebook",
+        "marca": "Lenovo",
+        "modelo": "Y510P",
+        "precio": 60000,
+        "stock": 30,
+        "img": "notebook-lenovo704s.png"
+    },
+    {
+        "nombre": "Celular",
+        "marca": "Xiomi",
+        "modelo": "Mi-9",
+        "precio": 35000,
+        "stock": 20,
+        "img": "xiomi-mi-9.jpg"
+    },
+    {
+        "nombre": "Smart Tv",
+        "marca": "Novatech",
+        "modelo": "50D1U",
+        "precio": 57000,
+        "stock": 15,
+        "img": "smart-tv-novatech.jpg"
+    },
+    {
+        "nombre": "Camara Deportiva",
+        "marca": "iQual",
+        "modelo": "C40",
+        "precio": 8000,
+        "stock": 30,
+        "img": "camara-iqual.jpg"
+    },
+    {
+        "nombre": "Celular",
+        "marca": "Samsung",
+        "modelo": "Galaxy S10",
+        "precio": 80000,
+        "stock": 10,
+        "img": "samsung-galaxy-s10.jpg"
+    },
+    {
+        "nombre": "Notebook",
+        "marca": "Asus",
+        "modelo": "VivoBook",
+        "precio": 80000,
+        "stock": 10,
+        "img": "asus-vivobook.jpg"
+    },
+    {
+        "nombre": "Celular",
+        "marca": "Huawei",
+        "modelo": "P30",
+        "precio": 80000,
+        "stock": 10,
+        "img": "huawei-p30.jpg"
+    },
+    {
+        "nombre": "Notebook",
+        "marca": "Acer",
+        "modelo": "Aspire",
+        "precio": 80000,
+        "stock": 10,
+        "img": "acer-aspire.jpg"
+    },
+    {
+        "nombre": "Celular",
+        "marca": "Xiaomi",
+        "modelo": "Mi-9",
+        "precio": 80000,
+        "stock": 10,
+        "img": "xiaomi-mi-9.jpg"
+    },
+    {
+        "nombre": "Notebook",
+        "marca": "Lenovo",
+        "modelo": "Y510P",
+        "precio": 80000,
+        "stock": 10,
+        "img": "lenovo-y510p.jpg"
+    },
+    {
+        "nombre": "Smart Tv",
+        "marca": "Samsung",
+        "modelo": "UE55MU7100",
+        "precio": 80000,
+        "stock": 10,
+        "img": "samsung-ue55mu7100.jpg"
+    }
+]
